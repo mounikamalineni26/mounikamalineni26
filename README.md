@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing B.Tech in Computer Science & Engineering  
+- 🎓 Pursuing B.Tech in Computer Science & Engineering (AI&ML)
 - 💻 Passionate about Full Stack Development  
 - 💡 Solving DSA problems regularly on LeetCode  
 - 🌱 Currently learning advanced Spring Boot & frontend design  
