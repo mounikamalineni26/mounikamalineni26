@@ -72,20 +72,6 @@
 
 ---
 
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/mounikamalineni26/feedback-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mounikamalineni26&repo=feedback-portal&theme=radical" />
-  </a>
-  <a href="https://github.com/mounikamalineni26/MeetingBookingSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mounikamalineni26&repo=MeetingBookingSystem&theme=radical" />
-  </a>
-</p>
-
-
----
-
 ### 🔗 Let’s Connect
 📧 Email: **mounikamalineni63@gmail.com**  
 💼 LinkedIn: [linkedin.com/in/mounikamalineni](https://www.linkedin.com/in/mounikamalineni)  
