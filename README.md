@@ -72,7 +72,7 @@
 
 ---
 
-### 📌 Pinned Projects
+## 📌 Pinned Projects
 
 <p align="center">
   <a href="https://github.com/mounikamalineni26/feedback-portal">
@@ -82,6 +82,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mounikamalineni26&repo=MeetingBookingSystem&theme=radical" />
   </a>
 </p>
+
 
 ---
 
