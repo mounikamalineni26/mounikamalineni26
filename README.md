@@ -34,10 +34,10 @@
 
 ### 📌 Featured Projects
 
-- 🔐 [Anonymous Feedback Portal](https://github.com/mounikamalineni26/feedback-portal)  
+- 🔐 [Feedback Portal](https://github.com/mounikamalineni26/feedback-portal)  
   A full-stack Spring Boot app for students to submit anonymous feedback with secure admin panel.
 
-- 🏢 [Meeting Room Booking System (Java GUI)](https://github.com/mounikamalineni26/Meeting-Room-Booking-System)  
+- 🏢 [MeetingRoomBookingSystem](https://github.com/mounikamalineni26/MeetingRoomBookingSystem)  
   A Java Swing-based desktop app to book meeting rooms with user and admin features.
 
 ---
