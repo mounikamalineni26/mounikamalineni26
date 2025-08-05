@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malineni Mounika</h1>
+<h1 align="center">Hi 👋, I'm Mounika Malineni</h1>
 <h3 align="center">Passionate Java Full Stack Developer | SDE Aspirant | Frontend Enthusiast</h3>
 
 ---
