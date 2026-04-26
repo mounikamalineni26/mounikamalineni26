@@ -35,7 +35,7 @@
 
 ### 📌 Featured Projects
 
-- 🔐 [Feedback Portal](https://github.com/mounikamalineni26/feedback-portal)  
+- 🔐 [AnonInsight](https://github.com/mounikamalineni26/anoninsight)  
   A full-stack Spring Boot app for students to submit anonymous feedback with secure admin panel.
 
 - 🏢 [MeetingRoomBookingSystem](https://github.com/mounikamalineni26/MeetingRoomBookingSystem)  
