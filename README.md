@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mounikamalineni26&color=blue)
 <h1 align="center">Hi 👋, I'm Mounika Malineni</h1>
-<h3 align="center">Passionate Java Full Stack Developer | SDE Aspirant | Frontend Enthusiast</h3>
+<h3 align="center">Passionate Java Full Stack Developer | SDE Aspirant </h3>
 
 ---
 
