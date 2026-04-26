@@ -56,7 +56,7 @@
 ---
 
 ### 🧠 Problem Solving
-- Practicing **Data Structures & Algorithms consistently**
+- Actively solving **150+ DSA problems** on coding platforms (LeetCode / CodeChef / etc.)
 - Focus on **arrays, strings, recursion, and problem-solving patterns**
 
 ---
