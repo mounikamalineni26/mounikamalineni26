@@ -1,21 +1,25 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mounikamalineni26&color=blue)
+
 <h1 align="center">Hi 👋, I'm Mounika Malineni</h1>
-<h3 align="center">Passionate Java Full Stack Developer | SDE Aspirant </h3>
+<h3 align="center">Java Full Stack Developer | Backend Engineer | SDE Aspirant</h3>
 
 ---
 
 ### 💡 About Me
-- 🎓 B.Tech Student at **R.V.R & J.C. College of Engineering** (2023–2027)  
-- 💻 I love building **full-stack web applications** and **Java-based desktop apps**
-- 🌱 Currently exploring **Spring Boot**, **React**, and **modern frontend UI**
-- 🎯 Goal: SDE Internships | Java Full Stack Developer | Frontend Developer roles
+- 🎓 Final-year B.Tech CSE (AI & ML) student at **R.V.R & J.C. College of Engineering**  
+- 💻 Built a **full-stack web application using Spring Boot and MySQL**  
+- 🖥️ Developed a **Java desktop application using Swing and OOP principles**  
+- 🔐 Implemented **authentication, role-based access control, and secure backend logic**  
+- 🌱 Strong focus on **Data Structures & Algorithms and backend system design**  
+- 🎯 Actively preparing for **SDE roles (Product-based + Service-based companies)**  
+- 🔗 GitHub: https://github.com/mounikamalineni26  
 - 📬 Reach me at: **mounikamalineni63@gmail.com**
 
 ---
 
 ### 🚀 Tech Stack
 
-#### 🖥️ Languages & Backend
+#### 🖥️ Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -25,7 +29,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-#### 🛠️ Tools & IDEs
+#### 🛠️ Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -33,13 +37,27 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
 
-- 🔐 [AnonInsight](https://github.com/mounikamalineni26/anoninsight)  
-  A full-stack Spring Boot app for students to submit anonymous feedback with secure admin panel.
+#### 🔐 AnonInsight
+- Built using **Spring Boot, MySQL, REST APIs**
+- Implemented **role-based authentication and secure backend flow**
+- Designed **REST APIs for feedback management system**
+- Focused on **data security and structured backend architecture**
 
-- 🏢 [MeetingRoomBookingSystem](https://github.com/mounikamalineni26/MeetingRoomBookingSystem)  
-  A Java Swing-based desktop app to book meeting rooms with user and admin features.
+---
+
+#### 🏢 Meeting Room Booking System
+- Developed using **Java Swing and OOP principles**
+- Implemented **booking conflict resolution logic**
+- Designed modular system for **user and admin roles**
+- Focused on **application design and logic handling**
+
+---
+
+### 🧠 Problem Solving
+- Practicing **Data Structures & Algorithms consistently**
+- Focus on **arrays, strings, recursion, and problem-solving patterns**
 
 ---
 
@@ -53,10 +71,7 @@
 ---
 
 ### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/Mounika%20Malineni-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounikamalineni)
+[![LinkedIn](https://img.shields.io/badge/Mounika%20Malineni-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounikamalineni)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mounikamalineni63@gmail.com)
 
 ---
-
-*Thanks for visiting my profile! Feel free to check out my projects or reach out for collaboration or internship opportunities.*
